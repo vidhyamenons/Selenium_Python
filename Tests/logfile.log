@@ -1,0 +1,28 @@
+2020-12-06 11:02:56,221:INFO: Tests.test_logging: Info
+2020-12-06 11:04:12,952:INFO: Tests.test_logging: Info
+2020-12-06 11:04:12,952:WARNING: Tests.test_logging: Warning
+2020-12-06 11:04:12,952:CRITICAL: Tests.test_logging: Critical
+2020-12-06 11:14:29,427:INFO: utilities.baseclass: success
+2020-12-06 11:20:37,800:INFO: test_formSubmission: success
+2020-12-06 11:25:23,728:INFO: test_formSubmission: success
+2020-12-06 11:31:42,641:INFO: test_formSubmission: Name is Rahul
+2020-12-06 11:31:43,206:INFO: test_formSubmission: success
+2020-12-06 11:31:43,734:INFO: test_formSubmission: Name is Anshika
+2020-12-06 11:31:43,734:INFO: test_formSubmission: Name is Anshika
+2020-12-06 11:31:44,312:INFO: test_formSubmission: success
+2020-12-06 11:31:44,312:INFO: test_formSubmission: success
+2020-12-06 11:33:01,046:INFO: test_formSubmission: Name is Rahul
+2020-12-06 11:33:01,530:INFO: test_formSubmission: success
+2020-12-06 11:33:02,201:INFO: test_formSubmission: Name is Anshika
+2020-12-06 11:33:02,201:INFO: test_formSubmission: Name is Anshika
+2020-12-06 11:33:02,680:INFO: test_formSubmission: success
+2020-12-06 11:33:02,680:INFO: test_formSubmission: success
+2020-12-06 15:13:17,618:INFO: test_formSubmission: Name is Rahul
+2020-12-06 15:13:19,100:INFO: test_formSubmission: success
+2020-12-06 15:13:19,143:INFO: test_formSubmission: Name is Anshika
+2020-12-06 15:13:19,143:INFO: test_formSubmission: Name is Anshika
+2020-12-06 15:13:23,800:INFO: Tests.test_logging: Info
+2020-12-06 15:13:23,800:WARNING: Tests.test_logging: Warning
+2020-12-06 15:13:23,800:CRITICAL: Tests.test_logging: Critical
+2021-01-06 15:12:44,446:INFO: test_formSubmission: Name is Rahul
+2021-01-06 15:12:49,948:INFO: test_formSubmission: success
